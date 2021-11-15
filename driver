@@ -1,0 +1,1 @@
+FROM k8s.gcr.io/csi-secrets-store/driver:v0.2.0
